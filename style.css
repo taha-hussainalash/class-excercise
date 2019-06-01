@@ -1,3 +1,22 @@
+#eren{
+ text-decoration: black;
+ margin: 100px 40px 150px;
+ color: beige;
+ padding: 20px 40px;
+ background: red;
+    }
+
+.eren{
+    background-color: rgba(100, 150, 200, 0.5)
+}
+
+.h2{
+    padding: 40px 50px;
+    margin: 50px 100px;
+    background-origin: padding-box;
+    box-sizing: border-box;
+    color: purple;
+    border: 10px green dashed;
 html {
     box-sizing: border-box;
 }
