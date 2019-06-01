@@ -1,4 +1,3 @@
-
 body {
     background-image: url("https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg");
 
@@ -33,6 +32,39 @@ p {
     margin: 20px 10px 20px 0px;
     padding: 25px;
     background: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-    
+}    
+#eren{
+ text-decoration: black;
+ margin: 100px 40px 150px;
+ color: beige;
+ padding: 20px 40px;
+ background: red;
+    }
 
+.eren{
+    background-color: rgba(100, 150, 200, 0.5)
+}
+
+.h2{
+    padding: 40px 50px;
+    margin: 50px 100px;
+    background-origin: padding-box;
+    box-sizing: border-box;
+    color: purple;
+    border: 10px green dashed;
+html {
+    box-sizing: border-box;
+}
+
+.briman {
+    background: #707A65;
+}
+
+.briman>h2 {
+    color: #EEF3AD;
+}
+
+img {
+    border: 3px #EFF7DA dotted ;
+    border-radius: 50%;
 }
