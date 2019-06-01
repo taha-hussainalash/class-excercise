@@ -1,0 +1,38 @@
+
+body {
+    background-image: url("https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg");
+
+
+}
+div{
+    color: yellow;
+    border-color: blue;
+    border-style: dashed;
+    border-radius: 20px;
+    
+}
+h1 {
+    border-style: dotted; 
+    border-radius: 20px;
+    padding: 10px;
+    background: rgb(179, 180, 223);
+    color: #fff;
+}
+p {
+    color : red;
+    border-style: solid;
+    border-radius: 20px;
+    font-size: 25px;
+    background: url("https://images.pexels.com/photos/1250260/pexels-photo-1250260.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    padding: 30px;
+}
+
+.box {
+    background: pink;
+    border: green;
+    margin: 20px 10px 20px 0px;
+    padding: 25px;
+    background: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    
+
+}
