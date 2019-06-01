@@ -17,4 +17,19 @@
     box-sizing: border-box;
     color: purple;
     border: 10px green dashed;
+html {
+    box-sizing: border-box;
+}
+
+.briman {
+    background: #707A65;
+}
+
+.briman>h2 {
+    color: #EEF3AD;
+}
+
+img {
+    border: 3px #EFF7DA dotted ;
+    border-radius: 50%;
 }
